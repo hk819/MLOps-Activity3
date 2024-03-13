@@ -1,6 +1,6 @@
 Mlops Task-3
 Ngrok configured
-jenkins connected
+jenkins connected!!
 
 The pipeline shall comprise the following steps
 Clonning the repository
